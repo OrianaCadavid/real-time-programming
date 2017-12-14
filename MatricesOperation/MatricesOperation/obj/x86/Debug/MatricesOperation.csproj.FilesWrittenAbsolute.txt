@@ -1,0 +1,5 @@
+/home/oriana/Desktop/MatricesOperation/MatricesOperation/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/oriana/Desktop/MatricesOperation/MatricesOperation/bin/Debug/MatricesOperation.exe.mdb
+/home/oriana/Desktop/MatricesOperation/MatricesOperation/bin/Debug/MatricesOperation.exe
+/home/oriana/Desktop/MatricesOperation/MatricesOperation/obj/x86/Debug/MatricesOperation.exe
+/home/oriana/Desktop/MatricesOperation/MatricesOperation/obj/x86/Debug/MatricesOperation.exe.mdb
