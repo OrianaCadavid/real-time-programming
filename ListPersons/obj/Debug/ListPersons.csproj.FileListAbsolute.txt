@@ -1,0 +1,7 @@
+C:\Users\Oriana\Documents\Repositories\real-time-programming\ListPersons\bin\Debug\ListPersons.exe.config
+C:\Users\Oriana\Documents\Repositories\real-time-programming\ListPersons\bin\Debug\ListPersons.exe
+C:\Users\Oriana\Documents\Repositories\real-time-programming\ListPersons\bin\Debug\ListPersons.pdb
+C:\Users\Oriana\Documents\Repositories\real-time-programming\ListPersons\obj\Debug\ListPersons.csprojResolveAssemblyReference.cache
+C:\Users\Oriana\Documents\Repositories\real-time-programming\ListPersons\obj\Debug\ListPersons.csproj.CoreCompileInputs.cache
+C:\Users\Oriana\Documents\Repositories\real-time-programming\ListPersons\obj\Debug\ListPersons.exe
+C:\Users\Oriana\Documents\Repositories\real-time-programming\ListPersons\obj\Debug\ListPersons.pdb
